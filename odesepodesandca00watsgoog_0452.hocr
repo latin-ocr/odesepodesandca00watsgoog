@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./odesepodesandca00watsgoog_0452.png"; bbox 0 0 2900 4725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 313 2332 4725">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 313 2332 4725">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 313 2332 4725; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 313 2332 4725; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2387 1421 2532 4199">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2387 1421 2444 1561">
+     <span class='ocr_line' id='line_1_2' title="bbox 2402 1421 2444 1434; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 2402 1421 2444 1434; x_wconf 62' lang='grc' dir='ltr'><strong>,Ι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2387 1487 2431 1510; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 2387 1487 2431 1510; x_wconf 63' lang='grc' dir='ltr'><strong>ιι</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2388 1542 2443 1561; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2388 1542 2443 1561; x_wconf 47' lang='grc' dir='ltr'><strong>..ψ’</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2392 1602 2463 1709">
+     <span class='ocr_line' id='line_1_5' title="bbox 2416 1602 2439 1621; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 2416 1602 2439 1621; x_wconf 60' lang='lat' dir='ltr'>J</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 2392 1653 2463 1670; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 2392 1653 2463 1670; x_wconf 58' lang='lat' dir='ltr'><strong>r*</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 2392 1689 2441 1709; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2392 1689 2441 1709; x_wconf 65' lang='lat'><em>&#39;</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2388 1714 2532 4199">
+     <span class='ocr_line' id='line_1_8' title="bbox 2388 1714 2430 1749; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 2388 1714 2430 1749; x_wconf 50' lang='grc' dir='ltr'><strong>,ἢ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 2403 1790 2420 1805; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 2403 1790 2420 1805; x_wconf 57' lang='lat' dir='ltr'>fi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 2485 4108 2496 4117; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 2485 4108 2496 4117; x_wconf 72' lang='grc' dir='ltr'><strong>ο</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 2488 4148 2528 4171; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 2488 4148 2528 4171; x_wconf 65' lang='grc' dir='ltr'><strong>,Γ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 2465 4175 2532 4199; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 2465 4175 2532 4199; x_wconf 27' lang='lat' dir='ltr'><strong>*nou</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
